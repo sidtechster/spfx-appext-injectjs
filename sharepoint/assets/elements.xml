@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="InjectJs"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="1b6f4ca4-827f-4abb-95b6-67fdc3befee0"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
